@@ -1,5 +1,5 @@
 # Data files (keep .gitkeep)
-data/*.csv
+
 
 # Python
 __pycache__/
